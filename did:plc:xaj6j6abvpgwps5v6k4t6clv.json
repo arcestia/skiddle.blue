@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/multikey/v1",
+    "https://w3id.org/security/suites/secp256k1-2019/v1"
+  ],
+  "id": "did:plc:xaj6j6abvpgwps5v6k4t6clv",
+  "alsoKnownAs": [
+    "at://skiddle.blue"
+  ],
+  "verificationMethod": [
+    {
+      "id": "did:plc:xaj6j6abvpgwps5v6k4t6clv#atproto",
+      "type": "Multikey",
+      "controller": "did:plc:xaj6j6abvpgwps5v6k4t6clv",
+      "publicKeyMultibase": "zQ3shr6XWVn8XGh3Dg1w2uU39JxkNVB4W4gNA5p3MYjpZLktT"
+    }
+  ],
+  "service": [
+    {
+      "id": "#atproto_pds",
+      "type": "AtprotoPersonalDataServer",
+      "serviceEndpoint": "https://rhizopogon.us-west.host.bsky.network"
+    }
+  ]
+}

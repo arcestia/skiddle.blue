@@ -1,0 +1,19 @@
+{
+  "did": "did:plc:xaj6j6abvpgwps5v6k4t6clv",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shr6XWVn8XGh3Dg1w2uU39JxkNVB4W4gNA5p3MYjpZLktT"
+  },
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "alsoKnownAs": [
+    "at://skiddle.blue"
+  ],
+  "services": {
+    "atproto_pds": {
+      "type": "AtprotoPersonalDataServer",
+      "endpoint": "https://rhizopogon.us-west.host.bsky.network"
+    }
+  }
+}

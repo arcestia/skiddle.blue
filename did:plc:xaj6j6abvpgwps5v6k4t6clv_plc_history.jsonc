@@ -1,0 +1,42 @@
+{
+  "alsoKnownAs": [
+    "at://skiddledev.bsky.social"
+  ],
+  "prev": null,
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://rhizopogon.us-west.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "KBWUpxvG_pYtXe5O0z59fEw7ZhAYLiheYOY5IveUg-RK132cwhmXqcYkpj05M_pmHzj_g-yuOfg5i9__ijVv6Q",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shr6XWVn8XGh3Dg1w2uU39JxkNVB4W4gNA5p3MYjpZLktT"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://skiddle.blue"
+  ],
+  "prev": "bafyreifycpspqanlzvt4xnpsxe7qs5mnjwowjqdqw57t7ca6nastl4fbgq",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://rhizopogon.us-west.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "TFZ2bX8lSnn4l7JmB3w1GKUNRiw8HuqtdyGS3pK0SrZqFWhIMLktx5lQKzt2Qf4yPagir8sF_whA3Tmjy7gjXg",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shr6XWVn8XGh3Dg1w2uU39JxkNVB4W4gNA5p3MYjpZLktT"
+  }
+}
